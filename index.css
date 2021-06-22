@@ -1,0 +1,38 @@
+/* google fonts start*/
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Saira&display=swap');
+/* google fonts end*/
+
+body{
+  background: goldenrod;
+}
+
+.form-control{
+  border-radius:0px;
+  border:0px;
+}
+.font-primary{
+  font-family: 'Kaushan Script', cursive;
+}
+.font-secondary{
+  font-family: 'Saira', sans-serif;
+}
+.form-area{
+  border:1px solid #fff;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
